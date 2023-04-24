@@ -1,2 +1,2 @@
 # Reaction-Mechanisms
-This repository contains fuel reaction chemistry reduced for CFD use
+This repository contains bio-diesel fuel reaction chemistry reduced for CFD use
